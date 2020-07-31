@@ -14,6 +14,9 @@ public class App
     {
         System.out.println( "Heyyy!" );
    
+        
+        
+        
         KommandoUI kommandoUi = new KommandoUI();
         kommandoUi.run();
     }
